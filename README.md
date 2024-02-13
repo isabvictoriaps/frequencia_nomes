@@ -1,6 +1,6 @@
-# AngularEstudos
+# Frequencia de Nomes 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+🧡 Projeto desenvolvido com o propósito de aprender mais sobre Angular
 
 ## Development server
 
